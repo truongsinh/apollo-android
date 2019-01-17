@@ -7,8 +7,8 @@ bintray {
     properties.load(localProperties.newDataInputStream())
   }
 
-  user = properties.getProperty("bintray.user")
-  key = properties.getProperty("bintray.apikey")
+  user = "truongsinh"
+  key = "ddedaa3bbecf2ee2989d15c94405589764c1160f"
 
   configurations = ['archives']
   pkg {

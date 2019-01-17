@@ -20,3 +20,6 @@ package-lock.json
 **/.project
 .vscode/**
 **/bin
+*.prefs
+*.classpath
+*.xml
